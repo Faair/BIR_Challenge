@@ -11,8 +11,8 @@ WorldInfo {
 }
 Viewpoint {
   fieldOfView 0.660595
-  orientation 0.14628826855864563 0.9586062791752633 0.24428209923748104 3.6900788198994188
-  position -15.965384563258274 21.032723369241122 -28.145747090481745
+  orientation 0.10911800000217531 0.9636198233386348 0.2439879057337543 3.4452600701225014
+  position -8.278527432417292 21.527978166708966 -30.517395489375836
 }
 TexturedBackground {
 }
@@ -1273,7 +1273,7 @@ DEF PIONEER_3DX Robot {
             }
             PointLight {
               attenuation 0 0 1
-              color 0 0 0
+              color 0.9137250185012817 0.24705900251865387 0.24705900251865387
               intensity 0.003
               location -0.02 0 0
               on FALSE
@@ -3366,7 +3366,7 @@ DEF PIONEER_3DX Robot {
       0 0.06 0.06
     ]
   }
-  controller "pioneer3dx_collision_avoidance"
+  controller "my_controller"
 }
 OilBarrel {
   translation 1.05 0.44 1.72

@@ -32,7 +32,7 @@ Para executar o desafio, faça o seguinte:
 
 **2.** Com o Webots aberto, abra o mundo para este desafio, o mesmo está localizado na pasta "webots_contents/pioneer3dx_desafio_recognition_IMU.wbt"
   
-**3.** Abra o controle otimizado, que está localizado na pasta: webots_contents/controllers/pioneer3dx_collision_avoidance_stereo_imu
+**3.** O controle já está configurado no robô, porém, caso precise readicioná-lo, o controle otimizado está localizado na pasta: webots_contents/controllers/pioneer3dx_collision_avoidance_stereo_imu.c ou controllers/my_controller.c.
 
 **4.** Aperte o play!
 
@@ -40,4 +40,3 @@ Para executar o desafio, faça o seguinte:
 
 Entrar em contato através do e-mail: **amavickto.fair@gmail.com**
 
-'This is the way.'
