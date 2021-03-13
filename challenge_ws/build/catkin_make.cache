@@ -1,2 +1,0 @@
-webots_ros
--DCATKIN_DEVEL_PREFIX=/home/fair/challenge_ws/devel -DCMAKE_INSTALL_PREFIX=/home/fair/challenge_ws/install -G Unix Makefiles
